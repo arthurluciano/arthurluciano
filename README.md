@@ -1,6 +1,6 @@
-### Olá, meu nome é Arthur 👋
+## Olá, meu nome é Arthur 👋
 
-## Eu sou FullStack Developer!
+### Eu sou FullStack Developer!
 
 - 💻 Atualmente estudando React
 - 👯 Procuro sempre estar estudando e entendendo outras tecnologias.
