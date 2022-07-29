@@ -1,6 +1,6 @@
 # Arthur Luciano 
 
-Full-stack Developer em @Lab2Dev.
+Full-stack Developer em @lab2dev.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Luciano-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthuroluciano/)](https://www.linkedin.com/in/arthuroluciano/) 
 [![Gmail Badge](https://img.shields.io/badge/-arthurluciano7@gmail.com-red?logo=gmail&logoColor=white&link=mailto:arthurluciano7@gmail.com)](mailto:arthurluciano7@gmail.com)
